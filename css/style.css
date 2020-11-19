@@ -1,0 +1,8 @@
+#header1 .resume-item{
+    width:40%;
+}
+@media (min-width: 1199px) {
+    .resume-item {
+      padding: 80px !important;
+    }
+  }
